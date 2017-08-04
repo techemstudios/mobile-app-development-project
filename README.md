@@ -1,6 +1,8 @@
-# mobile-app-development-project  
+# Mobile App Development Project  
 
-## Project Description:  
+Useful exercise for understanding how to start creating a mobile app for any OS. All work must be uploaded to this repository.  
+
+## Project Description  
 
 Plan a design for a mobile app. Run through the guidelines taught during the week of Mobile Apps camp. Your work can be any type of document i.e. pdf, word doc, screen shots of drawings or wireframes, etc. 
 
