@@ -8,7 +8,7 @@ Use the pdf file found in the [slides](https://github.com/techemstudios/mobile-a
 
 Complete the [design sheet](https://github.com/techemstudios/mobile-app-development-project/blob/master/design_sheet/Mobile%20App%20Camp.docx) found in this repository.  
 
-Check off the objectives below and upload your work to this repository.  
+Check off the objectives below and upload your work to this repository. --See "Uploading Your Project Files" below.    
 
 ## Objectives  
 
