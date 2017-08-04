@@ -1,10 +1,16 @@
-# mobile-app-development-project  
+# Mobile App Development Project  
 
-## Project Description:  
+Useful exercise for understanding how to start creating a mobile app for any OS. All work must be uploaded to this repository.  
+
+## Project Description  
 
 Plan a design for a mobile app. Run through the guidelines taught during the week of Mobile Apps camp. Your work can be any type of document i.e. pdf, word doc, screen shots of drawings or wireframes, etc. 
 
-Check off the objectives below and upload your work to this repository.  
+Use the pdf file found in the [slides](https://github.com/techemstudios/mobile-app-development-project/tree/master/slides) directory to help visualize the objectives/requirements.  
+
+Complete the [design sheet](https://github.com/techemstudios/mobile-app-development-project/blob/master/design_sheet/Mobile%20App%20Camp.docx) found in this repository.  
+
+Check off the objectives below and upload your work to this repository. --See "Uploading Your Project Files" below.    
 
 ## Objectives  
 
@@ -39,6 +45,17 @@ Check off the objectives below and upload your work to this repository.
   - Storyboard  
     - Create a road map of user possible user choices
     - You can use your initial sketch, add decisions to it; or, duplicate the intial sketch and add to it.  
+    
+    
+## Uploading your Project Files  
+
+Create a directory (name it your first name) in the "Particicpants" directory, and upload all of your work to your directory.  
+
+## Need Help with Git?  
+
+The GitHub site offers great tutorials on how to *git* going with GitHub. Feel free to reach out on Slack for any questions (happy to help!)  
+
+
     
     
   
